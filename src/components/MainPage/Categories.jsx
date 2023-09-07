@@ -16,7 +16,7 @@ const Categories = () => {
     },
     {
       cateImg: "./images/category/cat4.png",
-      cateName: "Home & Garden",
+      cateName: "Home Accessories",
     },
     {
       cateImg: "./images/category/cat5.png",
@@ -28,19 +28,11 @@ const Categories = () => {
     },
     {
       cateImg: "./images/category/cat7.png",
-      cateName: "Health & Beauty",
-    },
-    {
-      cateImg: "./images/category/cat8.png",
-      cateName: "Pets",
+      cateName: "Beauty Appliances",
     },
     {
       cateImg: "./images/category/cat9.png",
       cateName: "Baby Toys",
-    },
-    {
-      cateImg: "./images/category/cat10.png",
-      cateName: "Groceries",
     },
     {
       cateImg: "./images/category/cat11.png",
