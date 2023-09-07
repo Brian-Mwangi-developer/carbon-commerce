@@ -1,0 +1,121 @@
+/* ProductUpload.css */
+/* ProductUpload.css */
+
+/* Container for the entire product upload section */
+.product-upload {
+    display: flex;
+    justify-content: space-between; /* Separate into two sides */
+    align-items: flex-start; /* Align items to the top */
+    background-color: #f3f3f3;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Left side (Add Details) */
+.add-details {
+    width: 48%; /* Adjust the width as needed */
+}
+
+/* Right side (Preview Details) */
+.preview-details {
+    width: 48%; /* Adjust the width as needed */
+    text-align: center;
+}
+
+/* Rest of your existing styles... */
+
+
+.product-upload h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    font-weight: bold;
+    font-size: 16px;
+    color: #555;
+}
+
+input[type="file"] {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #fff;
+}
+
+input[type="number"],
+textarea {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #fff;
+}
+
+button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.preview {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.preview h2 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.preview div {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+label {
+    font-weight: bold;
+    font-size: 16px;
+    color: #555;
+}
+
+input[type="text"],
+textarea {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 70%;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #fff;
+    color: #333;
+}
+
+/* Add more styles to further enhance the design */
