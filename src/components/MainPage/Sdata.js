@@ -1,27 +1,27 @@
 const Sdata = [
   {
     id: 1,
-    title: "50% Off For Your First Shopping",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+    title: "Smart Discounts on Refurbished Devices!",
+    desc: "Smart Watches, Laptops, Phones, Printers, and Many More!.",
     cover: "./images/SlideCard/slide-1.png",
   },
   {
     id: 2,
-    title: "50% Off For Your First Shopping",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-    cover: "./images/SlideCard/slide-2.png",
+    title: "Smart Discounts on Refurbished Devices!",
+    desc: "Smart Watches, Laptops, Phones, Printers, and Many More!.",
+    cover: "https://img.freepik.com/premium-photo/digital-tablet-smartphone-table_127657-4696.jpg",
   },
   {
     id: 3,
-    title: "50% Off For Your First Shopping",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-    cover: "./images/SlideCard/slide-3.png",
+    title: "Smart Discounts on Refurbished Devices!",
+    desc: "Smart Watches, Laptops, Phones, Printers, and Many More!.",
+    cover: "https://www.apple.com/v/iphone/home/bn/images/meta/iphone__ky2k6x5u6vue_og.png",
   },
   {
     id: 4,
-    title: "50% Off For Your First Shopping",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-    cover: "./images/SlideCard/slide-4.png",
+    title: "Smart Discounts on Refurbished Devices!",
+    desc: "Smart Watches, Laptops, Phones, Printers, and Many More!.",
+    cover: "https://www.digitaltrends.com/wp-content/uploads/2023/03/lenovo-legion-tower-7i-review-06.jpg",
   },
 ]
 export default Sdata

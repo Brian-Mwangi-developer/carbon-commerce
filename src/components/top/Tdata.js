@@ -10,8 +10,8 @@ const Tdata = [
     desc: "4k orders this week",
   },
   {
-    cover: "./images/top/category-3.png",
-    para: "sunglass",
+    cover: "https://www.apple.com/v/iphone/home/bn/images/meta/iphone__ky2k6x5u6vue_og.png",
+    para: "phones",
     desc: "6k orders this week",
   },
   {
@@ -20,8 +20,8 @@ const Tdata = [
     desc: "4k orders this week",
   },
   {
-    cover: "./images/top/category-3.png",
-    para: "sunglass",
+    cover: "https://www.apple.com/v/iphone/home/bn/images/meta/iphone__ky2k6x5u6vue_og.png",
+    para: "phones",
     desc: "6k orders this week",
   },
 ]

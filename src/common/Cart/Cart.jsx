@@ -27,8 +27,8 @@ const Cart = ({ CartItem, addToCart, decreaseQty }) => {
                   <div className='cart-details'>
                     <h3>{item.name}</h3>
                     <h4>
-                      ${item.price}.00 * {item.qty}
-                      <span>${productQty}.00</span>
+                      Ksh{item.price}.00 * {item.qty}
+                      <span>Ksh{productQty}.00</span>
                     </h4>
                   </div>
                   <div className='cart-items-function'>
@@ -60,7 +60,7 @@ const Cart = ({ CartItem, addToCart, decreaseQty }) => {
             <h2>Cart Summary</h2>
             <div className=' d_flex'>
               <h4>Total Price :</h4>
-              <h3>${totalPrice}.00</h3>
+              <h3>Ksh{totalPrice}.00</h3>
             </div>
           </div>
         </div>

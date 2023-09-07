@@ -7,8 +7,8 @@ const Footer = () => {
       <footer>
         <div className='container grid2'>
           <div className='box'>
-            <h1>Bonik</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
+            <h1>Carbon Commerce</h1>
+            <p>When you purchase a carbon offset from a carbon commerce e-shop, you are essentially investing in a project that will help to reduce greenhouse gas emissions.</p>
             <div className='icon d_flex'>
               <div className='img d_flex'>
                 <i class='fa-brands fa-google-play'></i>
