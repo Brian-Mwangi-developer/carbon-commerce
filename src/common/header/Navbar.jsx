@@ -34,7 +34,7 @@ const Navbar = () => {
                 <Link to='/track'>track my order</Link>
               </li>
               <li>
-                <Link to='/contact'>e-Waste</Link>
+                <Link to='/map'>e-Waste</Link>
               </li>
             </ul>
 
