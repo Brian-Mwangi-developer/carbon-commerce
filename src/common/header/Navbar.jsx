@@ -28,13 +28,13 @@ const Navbar = () => {
                 <Link to='/profile'>user account</Link>
               </li>
               <li>
-                <Link to='/vendor'>vendor account</Link>
+                <Link to='/recycle'>Recycle</Link>
               </li>
               <li>
                 <Link to='/track'>track my order</Link>
               </li>
               <li>
-                <Link to='/contact'>contact</Link>
+              <a href='https://www.arcgis.com/apps/mapviewer/index.html?webmap=75a0dd29c48443b88640c8903d90efe4'>E waste collection</a>
               </li>
             </ul>
 

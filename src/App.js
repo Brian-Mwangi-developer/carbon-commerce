@@ -8,6 +8,7 @@ import UserSettings from "./common/userProfile/UsersettingsPage"
 import Cart from "./common/Cart/Cart"
 import Footer from "./common/footer/Footer"
 import Sdata from "./components/shops/Sdata"
+import WasteProduct from "./common/wasteProduct/wasteProduct"
 
 function App() {
   /*
@@ -81,6 +82,9 @@ function App() {
           </Route>
           <Route path='/profile' exact>
            <UserSettings/>
+          </Route>
+          <Route path='/recycle' exact>
+           <WasteProduct/>
           </Route>
         </Switch>
         <Footer />
